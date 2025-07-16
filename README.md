@@ -1,2 +1,4 @@
-# Stock-Price-Prediction
-This project uses historical stock data since 2010, fetched via the yfinance API, to simulate and forecast stock price movements. We explore various modeling techniques to analyze trends and make short-term or long-term predictions
+# Quantitative-Trading-with-Stock-Price-Prediction
+This project uses historical stock data since 2010 (via the yfinance API) to simulate and forecast price movements. The pipeline covers market data processing, alpha research, and alpha monetization.
+
+
